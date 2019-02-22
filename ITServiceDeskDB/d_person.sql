@@ -1,4 +1,6 @@
 ﻿CREATE TABLE [dbo].[d_person]
 (
-	[id_person] BIGINT NOT NULL PRIMARY KEY
+	[personId] BIGINT NOT NULL PRIMARY KEY,
+	[personFirstName] varchar(255),
+	[personLastName] varchar(255)
 )

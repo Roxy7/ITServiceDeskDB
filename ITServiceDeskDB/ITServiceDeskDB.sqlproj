@@ -60,9 +60,9 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="f_ticket.sql" />
-    <Build Include="d_category.sql" />
-    <Build Include="d_status.sql" />
-    <Build Include="d_priority.sql" />
+    <Build Include="d_categoryList.sql" />
+    <Build Include="d_statusList.sql" />
+    <Build Include="d_priorityList.sql" />
     <Build Include="d_user.sql" />
     <Build Include="d_agent.sql" />
     <Build Include="d_agentGroup.sql" />
